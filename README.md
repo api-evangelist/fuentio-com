@@ -1,4 +1,4 @@
-# fuentio-com
+# Fuentio
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fuentio-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fuentio.com/
+Fuentio provides verification of French, Spanish and UK companies against official registers via a REST API and MCP server. It offers outcomes, reasons, source data, dates, and proof codes, enabling KYB onboarding, supplier checks, and AI agent integration. Free plan includes 100 units per month.
+
+**Areas:** KYB · Company verification · Compliance · API · Onboarding · Procurement
+
+## Fuentio on APIs.io
+
+Everything profiled for Fuentio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fuentio-com/](https://apis.io/providers/fuentio-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [Fuentio Companies API](https://apis.io/apis/fuentio-com/fuentio-com-companies-api/) — The companies API from Fuentio — 3 operation(s) for companies.
+- [Fuentio Coverage API](https://apis.io/apis/fuentio-com/fuentio-com-coverage-api/) — The coverage API from Fuentio — 2 operation(s) for coverage.
+- [Fuentio Discovery API](https://apis.io/apis/fuentio-com/fuentio-com-discovery-api/) — The discovery API from Fuentio — 4 operation(s) for discovery.
+- [Fuentio Exports API](https://apis.io/apis/fuentio-com/fuentio-com-exports-api/) — The exports API from Fuentio — 1 operation(s) for exports.
+- [Fuentio Graph API](https://apis.io/apis/fuentio-com/fuentio-com-graph-api/) — The graph API from Fuentio — 1 operation(s) for graph.
+- [Fuentio Health API](https://apis.io/apis/fuentio-com/fuentio-com-health-api/) — The health API from Fuentio — 2 operation(s) for health.
+- [Fuentio Issues API](https://apis.io/apis/fuentio-com/fuentio-com-issues-api/) — The issues API from Fuentio — 1 operation(s) for issues.
+- [Fuentio Keys API](https://apis.io/apis/fuentio-com/fuentio-com-keys-api/) — The keys API from Fuentio — 4 operation(s) for keys.
+- [Fuentio Proof API](https://apis.io/apis/fuentio-com/fuentio-com-proof-api/) — The proof API from Fuentio — 3 operation(s) for proof.
+- [Fuentio Resolve API](https://apis.io/apis/fuentio-com/fuentio-com-resolve-api/) — The resolve API from Fuentio — 5 operation(s) for resolve.
+- [Fuentio Screening API](https://apis.io/apis/fuentio-com/fuentio-com-screening-api/) — The screening API from Fuentio — 5 operation(s) for screening.
+- [Fuentio supplier check API](https://apis.io/apis/fuentio-com/fuentio-com-supplier-check-api/) — The supplier check API from Fuentio — 11 operation(s) for supplier check.
+- [Fuentio Verification API](https://apis.io/apis/fuentio-com/fuentio-com-verification-api/) — The verification API from Fuentio — 2 operation(s) for verification.
+- [Fuentio Watches API](https://apis.io/apis/fuentio-com/fuentio-com-watches-api/) — The watches API from Fuentio — 3 operation(s) for watches.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fuentio Com Agentic Access](https://apis.io/agentic-access/fuentio-com/fuentio-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [IssueRequest](https://apis.io/schemas/fuentio-com/fuentio-com-issue-request/)
+- [ItemsIn](https://apis.io/schemas/fuentio-com/fuentio-com-items-in/)
+- [KeyRequest](https://apis.io/schemas/fuentio-com/fuentio-com-key-request/)
+- [ResolveRequest](https://apis.io/schemas/fuentio-com/fuentio-com-resolve-request/)
+- [VerifyRequest](https://apis.io/schemas/fuentio-com/fuentio-com-verify-request/)
+- [WatchRequest](https://apis.io/schemas/fuentio-com/fuentio-com-watch-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Fuentio Com Context](https://apis.io/jsonld/fuentio-com/fuentio-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Fuentio API Rules](https://apis.io/rules/fuentio-com/fuentio-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fuentio Com Domain Security](https://apis.io/security/fuentio-com/fuentio-com-domain-security/)
+- [Fuentio Com Trust Center](https://apis.io/security/fuentio-com/fuentio-com-trust-center/)
+- [Fuentio Com Vulnerability Disclosure](https://apis.io/security/fuentio-com/fuentio-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fuentio Com Plans Pricing](https://apis.io/plans/fuentio-com/fuentio-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fuentio.com/)
+- [Documentation](https://fuentio.com/docs/)
+- [Getting started](https://fuentio.com/use-cases/kyb-onboarding/)
+- [Pricing](https://fuentio.com/pricing/)
+- [Sign up](https://fuentio.com/blog/register-checks-before-investing/)
+- [Changelog](https://fuentio.com/changelog/)
+- [Blog](https://fuentio.com/blog/)
+- [Security](https://fuentio.com/legal/notice/)
+- [Compliance](https://fuentio.com/trust/)
+- [Terms of service](https://fuentio.com/legal/terms/)
+- [Privacy policy](https://fuentio.com/legal/privacy/)
+- [Status](https://fuentio.com/status/)
+
+## API Evangelist rating
+
+**Kin Score 60.8** — strong · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 53.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 88.9 |
+
+**Agent readiness 39.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fuentio-com/](https://apis.io/providers/fuentio-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fuentio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fuentio-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
